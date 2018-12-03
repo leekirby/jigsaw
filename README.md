@@ -1,5 +1,5 @@
-# remaker
-A browser extension tool for modifying web page content, with the purpose of rapid prototyping ideas and concepts for user testing.
+# jigsaw
+A browser extension tool for modifying web page content. Generally used to validation UI changes or rapid prototyping ideas and concepts for user testing.
 
 
 ## License
